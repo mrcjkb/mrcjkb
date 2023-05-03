@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
   * Matrix: @mrcjk:matrix.org
   * [LinkedIn](https://www.linkedin.com/in/marc-jakobi/)
-- 📝 Check out [my blog](https://mrcjkb.github.io).
+- 📝 Check out [my blog](https://mrcjkb.dev).
 
 <!---
 MrcJkb/MrcJkb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
