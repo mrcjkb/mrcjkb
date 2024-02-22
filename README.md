@@ -60,6 +60,9 @@
   Nix flakes for drop-in dev shells
 - [`keyboardio-atreus-firmware`](https://github.com/mrcjkb/keyboardio-atreus-firmware)
 
+
+... [and more](https://github.com/MrcJkb?tab=repositories&q=&type=source)
+
 <!---
 MrcJkb/MrcJkb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
