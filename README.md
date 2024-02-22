@@ -1,7 +1,7 @@
 - 🦥 Hi, I’m Marc.
 - 🌱 I'm a renewable energy systems engineer developing software for a [virtual power plant](https://www.youtube.com/watch?v=r_kmmAt6CQE) with [Haskell](https://www.haskell.org/) & [Nix](https://nixos.org/) at [tiko](https://tiko.energy).
 - 👀 On my day off (Fridays), I like to contribute to the open source tools I use, and maintain [a few of my own](https://github.com/MrcJkb?tab=repositories&q=&type=source&language=&sort=).
-- 🏃‍♂️ I love running in the forest (and sometimes just walking with my two cats).
+- 🏃‍♂️ I love running in the forest (and sometimes just walking with my wife and our two cats).
 - 🌶️ I like to eat plants (preferably spicy ones).
 - 📫 How to reach me: 
   * Matrix: @mrcjk:matrix.org
