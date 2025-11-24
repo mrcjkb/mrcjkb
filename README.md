@@ -39,7 +39,7 @@
 ##### Misc
 
 - [`lux`](https://github.com/nvim-neorocks/lux):
-  A very early WIP rewrite of the luarocks package manager
+  A modern package manager for Lua
 - [The nix packages I maintain](https://github.com/search?q=repo%3ANixOS%2Fnixpkgs+maintainers+mrcjkb+language%3ANix&type=code&l=Nix)
 
 ##### Template repos
