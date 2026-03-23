@@ -1,5 +1,5 @@
 - 🦥 Hi, I’m Marc.
-- 🌱 I'm a renewable energy systems engineer developing software with [Haskell](https://www.haskell.org/) & [Nix](https://nixos.org/).
+- 🌱 I'm a renewable energy systems engineer developing software primarily with [Haskell](https://www.haskell.org/), [Rust](https://rust-lang.org/) & [Nix](https://nixos.org/).
 - 👀 I like to contribute to the open source tools I use, and maintain [a few of my own](https://github.com/MrcJkb?tab=repositories&q=&type=source&language=&sort=).
 - 🏃‍♂️ I love running in the forest (and sometimes just walking with my wife and our two cats).
 - 🌶️ I like to eat plants (preferably the spicy ones).
